@@ -1,3 +1,5 @@
+using System;
+
 namespace DIO.DIO.Cadastro.Series
 {
     public class Serie : EntidadeBase
