@@ -1,4 +1,4 @@
-namespace DIO.DIO.Cadastro.Series
+namespace DIO.Cadastro.Series
 {
     public abstract class EntidadeBase
     {

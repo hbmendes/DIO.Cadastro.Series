@@ -1,6 +1,6 @@
 using System;
 
-namespace DIO.DIO.Cadastro.Series
+namespace DIO.Cadastro.Series
 {
     public class Serie : EntidadeBase
     {
